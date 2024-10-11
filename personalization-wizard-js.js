@@ -61,25 +61,29 @@ function validateStep(step) {
 
 function setupMutualExclusion() {
     const guideCheckbox = document.getElementById('generative_ai_guide');
-    const otherInterests = document.querySelectorAll('#topics-list input[type="checkbox"]');
+    const topicsList = document.getElementById('topics-list');
 
+    // Event listener for the "Generative AI Guide" checkbox
     guideCheckbox.addEventListener('change', function() {
         if (this.checked) {
+            const otherInterests = topicsList.querySelectorAll('input[type="checkbox"]');
             otherInterests.forEach(checkbox => {
-                checkbox.checked = false;
+                if (checkbox !== guideCheckbox) {
+                    checkbox.checked = false;
+                }
             });
         }
     });
 
-    otherInterests.forEach(checkbox => {
-        checkbox.addEventListener('change', function() {
-            if (this.checked) {
+    // Event delegation for checkboxes in the topics list
+    topicsList.addEventListener('change', function(event) {
+        if (event.target.matches('input[type="checkbox"]') && event.target !== guideCheckbox) {
+            if (event.target.checked) {
                 guideCheckbox.checked = false;
             }
-        });
+        }
     });
 }
-
 
 // Existing code in personalization-wizard-js.js
 console.log("wizard.js is being executed");
