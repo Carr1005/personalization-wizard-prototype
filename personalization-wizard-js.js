@@ -30,6 +30,9 @@ function navigate(direction) {
 
         if (currentStep === totalSteps) {
             updateSummary();
+            nextBtn.style.display = 'none';
+        } else {
+            nextBtn.style.display = 'initial';
         }
 
         console.log('Navigation successful. New current step:', currentStep);
