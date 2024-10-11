@@ -1,0 +1,64 @@
+course_id,index_page_card_excerpt
+1,
+3,
+5,"Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, and expanding."
+7,"Learn and build diffusion models from the ground up, understanding each step. Learn about diffusion models in use today and implement algorithms to speed up sampling."
+9,"Create a chatbot with LangChain to interface with your private data and documents. Learn from LangChain creator, Harrison Chase."
+11,"Learn MLOps tools for managing, versioning, debugging, and experimenting in your ML workflow."
+13,"Discover when to use finetuning vs prompting for LLMs. Select suitable open-source models, prepare data, and train & evaluate for your specific domain."
+15,Learn how to accelerate the application development process with text embeddings for sentence and paragraph meaning.
+17,Learn about the latest advancements in LLM APIs and use LangChain Expression Language (LCEL) to compose and customize chains and agents.
+19,Learn how to evaluate the safety and security of your LLM applications and protect against risks. Monitor and enhance security measures to safeguard your apps.
+21,Get an introduction to tuning and evaluating LLMs using Reinforcement Learning from Human Feedback (RLHF) and fine-tune the Llama 2 model.
+23,"Expand your toolkit with LangChain.js, a JavaScript framework for building with LLMs. Understand the fundamentals of using LangChain to orchestrate and chain modules."
+25,"Learn how to create an automated CI pipeline to evaluate your LLM applications on every change, for faster and safer development."
+27,Learn how to deploy an LLM-based application into production using serverless technology. Learn to prompt and customize LLM responses with Amazon Bedrock.
+29,Learn how to easily build AI applications using open-source models and Hugging Face tools. Find and filter open-source models on Hugging Face Hub.
+31,Understand how LLMs predict the next token and how techniques like KV caching can speed up text generation. Write code to serve LLM applications efficiently to multiple users.
+33,Learn how to make safer LLM apps through red teaming. Learn to identify and evaluate vulnerabilities in large language model (LLM) applications.
+35,Learn how to quantize any open-source model. Learn to compress models with the Hugging Face Transformers library and the Quanto library.
+37,"Learn prompt engineering for vision models using Stable Diffusion, and advanced techniques like object detection and in-painting. "
+39,"Build autonomous agents that intelligently navigate and analyze your data. Learn to develop agentic RAG systems using LlamaIndex, enabling powerful document Q&A and summarization. Gain valuable skills in guiding agent reasoning and debugging."
+41,Automate business workflows with multi-AI agent systems. Exceed the performance of prompting a single LLM by designing and prompting a team of AI agents through natural language.
+43,Use the AutoGen framework to build multi-agent systems with diverse roles and capabilities for implementing complex AI applications.
+45,"Interact with tabular data and SQL databases using natural language, enabling more efficient and accessible data analysis."
+47,Train your machine learning models using cleaner energy sources.
+"1,001","Optimize the efficiency, security, query processing speed, and cost of your RAG applications."
+"1,003",Build and fine-tune LLMs across distributed data using a federated learning framework for better privacy.
+"1,005",
+"1,007",Learn how to build embedding models and how to create effective semantic retrieval systems.
+"1,009",Learn a flexible framework to build a variety of complex AI applications.
+"1,011",AI Python for Beginners Course 3.
+"1,013",Build an interactive system for querying video content using multimodal AI
+"1,016",Try out the features of the new Llama 3.2 models to build AI applications with multimodality.
+2,
+4,
+6,"Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering, and agents."
+8,"Learn to break down complex tasks, automate workflows, chain LLM calls, and get better outputs from LLMs. Evaluate LLM inputs and outputs for safety and relevance."
+10,Create and demo machine learning applications quickly. Share your app with teammates and beta testers on Hugging Face Spaces.
+12,"Learn to use LLMs to enhance search and summarize results, using Cohere Rerank and embeddings for dense retrieval."
+14,"Learn Microsoft's open source orchestrator, Semantic Kernel and use LLM building blocks such as memory, connectors, chains and planners in your apps."
+16,"Learn how to prompt an LLM to help improve, debug, understand, and document your code. Use LLMs to simplify your code and enhance productivity."
+18,"Design and execute real-world applications of vector databases. Build efficient, practical applications, including hybrid and multilingual searches."
+20,"Learn advanced RAG retrieval methods like sentence-window and auto-merging that outperform baselines, and evaluate and iterate on your pipeline's performance. "
+22,Learn advanced retrieval techniques to improve the relevancy of retrieved results. Learn to recognize poor query results and use LLMs to improve queries.
+24,Learn LLMOps best practices as you design and automate steps to fine-tune and deploy an LLM for a specific task.
+26,"Learn to build six applications powered by vector databases, including semantic search, retrieval augmented generation (RAG), and anomaly detection."
+28,"Learn best practices for prompting and selecting among Meta Llama 2 & 3 models. Interact with Meta Llama 2 Chat, Code Llama, and Llama Guard models."
+30,Learn how to build and use knowledge graph systems to improve your retrieval augmented generation applications. Use Neo4j's query language Cypher to manage and retrieve data.
+32,"Build a full-stack web application that uses RAG capabilities to chat with your data. Learn to build a RAG application in JavaScript, using an intelligent agent to answer queries."
+34,"Improve your RAG system to retrieve diverse data types. Learn to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, and HTML files."
+36,"Explore Mistral's open-source and commercial models, and leverage Mistral's JSON mode to generate structured LLM responses. Use Mistral's API to call user-defined functions for enhanced LLM capabilities."
+38,"Customize model compression with advanced quantization techniques. Try out different variants of Linear Quantization, including symmetric vs. asymmetric mode, and different granularities."
+40,Build smarter search and RAG applications for multimodal retrieval and generation.
+42,"Deploy AI for edge devices and smartphones. Learn model conversion, quantization, and how to modify for deployment on diverse devices. "
+44,Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. 
+46,Learn to apply function-calling to expand LLM and agent application capabilities.
+998,
+"1,002",Learn the essential steps to pretrain a large language model from scratch.
+"1,004","Enroll in 'AI Python for Beginners' by DeepLearning.AI and learn Python programming with AI assistance. Gain skills writing, testing, and debugging code efficiently, and create real-world AI applications."
+"1,006",AI Python for Beginners Course 2.
+"1,008","Systematically improve the accuracy of LLM applications with evaluation, prompting, and memory tuning."
+"1,010",Learn best practices for multimodal prompting using Google’s Gemini model.
+"1,012",AI Python for Beginners Course 4.
+"1,015",Build faster and more relevant vector search for your LLM applications

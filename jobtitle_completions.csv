@@ -1,0 +1,1001 @@
+job_title_name,course_id,name,en_name,completions
+Consulting,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"4,649"
+Consulting,16,Pair Programming with a Large Language Model,pair-programming-llm,"2,976"
+Consulting,13,Finetuning Large Language Models,finetuning-large-language-models,"2,683"
+Consulting,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,"2,655"
+Consulting,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,"2,378"
+Consulting,6,LangChain for LLM Application Development,langchain,928
+Consulting,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,753
+Consulting,9,LangChain Chat with Your Data,langchain-chat-with-your-data,736
+Consulting,8,Building Systems with the ChatGPT API,chatgpt-building-system,619
+Consulting,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,378
+Consulting,7,How Diffusion Models Work,diffusion-models,347
+Consulting,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,330
+Consulting,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,254
+Consulting,24,LLMOps,llmops,244
+Consulting,12,Large Language Models with Semantic Search,large-language-models-semantic-search,234
+Consulting,10,Building Generative AI Applications with Gradio,huggingface-gradio,232
+Consulting,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,232
+Consulting,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,229
+Consulting,44,AI Agents in LangGraph,ai-agents-in-langgraph,215
+Consulting,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,212
+Consulting,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,208
+Consulting,30,Knowledge Graphs for RAG,knowledge-graphs-rag,202
+Consulting,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,201
+Consulting,45,Building Your Own Database Agent,building-your-own-database-agent,187
+Consulting,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,175
+Consulting,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,169
+Consulting,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,157
+Consulting,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,150
+Consulting,26,Building Applications with Vector Databases,building-applications-vector-databases,149
+Consulting,33,Red Teaming LLM Applications,red-teaming-llm-applications,148
+Consulting,29,Open Source Models with Hugging Face,open-source-models-hugging-face,147
+Consulting,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,143
+Consulting,36,Getting Started with Mistral,getting-started-with-mistral,135
+Consulting,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,113
+Consulting,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,101
+Consulting,42,Introduction to on-device AI,introduction-to-on-device-ai,95
+Consulting,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,95
+Consulting,25,Automated Testing for LLMOps,automated-testing-llmops,88
+Consulting,31,Efficiently Serving LLMs,efficiently-serving-llms,83
+Consulting,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,83
+Consulting,"1,002",Pretraining LLMs,pretraining-llms,83
+Consulting,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,76
+Consulting,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,75
+Consulting,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,70
+Consulting,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,66
+Consulting,"1,003",Intro to Federated Learning,intro-to-federated-learning,56
+Consulting,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,54
+Consulting,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,53
+Consulting,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,49
+Consulting,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,25
+Consulting,38,Quantization in Depth,quantization-in-depth,24
+Data Analyst,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"7,521"
+Data Analyst,16,Pair Programming with a Large Language Model,pair-programming-llm,"3,911"
+Data Analyst,13,Finetuning Large Language Models,finetuning-large-language-models,"3,903"
+Data Analyst,8,Building Systems with the ChatGPT API,chatgpt-building-system,"2,985"
+Data Analyst,9,LangChain Chat with Your Data,langchain-chat-with-your-data,"2,977"
+Data Analyst,6,LangChain for LLM Application Development,langchain,"2,937"
+Data Analyst,7,How Diffusion Models Work,diffusion-models,"2,624"
+Data Analyst,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,"2,345"
+Data Analyst,12,Large Language Models with Semantic Search,large-language-models-semantic-search,"2,226"
+Data Analyst,10,Building Generative AI Applications with Gradio,huggingface-gradio,"2,182"
+Data Analyst,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,"2,179"
+Data Analyst,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,"2,148"
+Data Analyst,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,"2,069"
+Data Analyst,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,919
+Data Analyst,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,555
+Data Analyst,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,509
+Data Analyst,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,418
+Data Analyst,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,365
+Data Analyst,24,LLMOps,llmops,348
+Data Analyst,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,335
+Data Analyst,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,320
+Data Analyst,45,Building Your Own Database Agent,building-your-own-database-agent,284
+Data Analyst,26,Building Applications with Vector Databases,building-applications-vector-databases,282
+Data Analyst,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,236
+Data Analyst,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,230
+Data Analyst,25,Automated Testing for LLMOps,automated-testing-llmops,217
+Data Analyst,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,216
+Data Analyst,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,192
+Data Analyst,29,Open Source Models with Hugging Face,open-source-models-hugging-face,172
+Data Analyst,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,172
+Data Analyst,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,162
+Data Analyst,30,Knowledge Graphs for RAG,knowledge-graphs-rag,161
+Data Analyst,44,AI Agents in LangGraph,ai-agents-in-langgraph,148
+Data Analyst,36,Getting Started with Mistral,getting-started-with-mistral,119
+Data Analyst,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,115
+Data Analyst,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,105
+Data Analyst,33,Red Teaming LLM Applications,red-teaming-llm-applications,103
+Data Analyst,42,Introduction to on-device AI,introduction-to-on-device-ai,99
+Data Analyst,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,97
+Data Analyst,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,93
+Data Analyst,31,Efficiently Serving LLMs,efficiently-serving-llms,88
+Data Analyst,"1,002",Pretraining LLMs,pretraining-llms,82
+Data Analyst,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,77
+Data Analyst,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,66
+Data Analyst,"1,003",Intro to Federated Learning,intro-to-federated-learning,59
+Data Analyst,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,55
+Data Analyst,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,47
+Data Analyst,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,43
+Data Analyst,38,Quantization in Depth,quantization-in-depth,41
+Data Analyst,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,28
+Data Analyst,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,26
+Data Scientist,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"8,390"
+Data Scientist,6,LangChain for LLM Application Development,langchain,"4,883"
+Data Scientist,9,LangChain Chat with Your Data,langchain-chat-with-your-data,"4,144"
+Data Scientist,13,Finetuning Large Language Models,finetuning-large-language-models,"3,365"
+Data Scientist,8,Building Systems with the ChatGPT API,chatgpt-building-system,"2,409"
+Data Scientist,7,How Diffusion Models Work,diffusion-models,"1,801"
+Data Scientist,12,Large Language Models with Semantic Search,large-language-models-semantic-search,"1,538"
+Data Scientist,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,"1,469"
+Data Scientist,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,"1,459"
+Data Scientist,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,"1,440"
+Data Scientist,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,"1,382"
+Data Scientist,44,AI Agents in LangGraph,ai-agents-in-langgraph,"1,376"
+Data Scientist,16,Pair Programming with a Large Language Model,pair-programming-llm,"1,348"
+Data Scientist,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,"1,336"
+Data Scientist,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,"1,313"
+Data Scientist,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,"1,305"
+Data Scientist,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,"1,296"
+Data Scientist,24,LLMOps,llmops,"1,281"
+Data Scientist,30,Knowledge Graphs for RAG,knowledge-graphs-rag,"1,163"
+Data Scientist,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,"1,112"
+Data Scientist,10,Building Generative AI Applications with Gradio,huggingface-gradio,"1,106"
+Data Scientist,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,939
+Data Scientist,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,891
+Data Scientist,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,872
+Data Scientist,45,Building Your Own Database Agent,building-your-own-database-agent,841
+Data Scientist,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,838
+Data Scientist,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,755
+Data Scientist,29,Open Source Models with Hugging Face,open-source-models-hugging-face,731
+Data Scientist,36,Getting Started with Mistral,getting-started-with-mistral,729
+Data Scientist,26,Building Applications with Vector Databases,building-applications-vector-databases,723
+Data Scientist,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,682
+Data Scientist,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,532
+Data Scientist,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,504
+Data Scientist,"1,002",Pretraining LLMs,pretraining-llms,463
+Data Scientist,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,462
+Data Scientist,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,437
+Data Scientist,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,421
+Data Scientist,33,Red Teaming LLM Applications,red-teaming-llm-applications,405
+Data Scientist,25,Automated Testing for LLMOps,automated-testing-llmops,378
+Data Scientist,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,355
+Data Scientist,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,342
+Data Scientist,42,Introduction to on-device AI,introduction-to-on-device-ai,337
+Data Scientist,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,296
+Data Scientist,31,Efficiently Serving LLMs,efficiently-serving-llms,273
+Data Scientist,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,212
+Data Scientist,38,Quantization in Depth,quantization-in-depth,208
+Data Scientist,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,203
+Data Scientist,"1,003",Intro to Federated Learning,intro-to-federated-learning,202
+Data Scientist,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,183
+Data Scientist,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,134
+Data Scientist,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,65
+Educator / Teacher / Professor,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"1,070"
+Educator / Teacher / Professor,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,814
+Educator / Teacher / Professor,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,305
+Educator / Teacher / Professor,9,LangChain Chat with Your Data,langchain-chat-with-your-data,228
+Educator / Teacher / Professor,13,Finetuning Large Language Models,finetuning-large-language-models,221
+Educator / Teacher / Professor,6,LangChain for LLM Application Development,langchain,208
+Educator / Teacher / Professor,7,How Diffusion Models Work,diffusion-models,203
+Educator / Teacher / Professor,8,Building Systems with the ChatGPT API,chatgpt-building-system,172
+Educator / Teacher / Professor,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,143
+Educator / Teacher / Professor,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,125
+Educator / Teacher / Professor,29,Open Source Models with Hugging Face,open-source-models-hugging-face,118
+Educator / Teacher / Professor,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,115
+Educator / Teacher / Professor,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,112
+Educator / Teacher / Professor,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,112
+Educator / Teacher / Professor,16,Pair Programming with a Large Language Model,pair-programming-llm,96
+Educator / Teacher / Professor,44,AI Agents in LangGraph,ai-agents-in-langgraph,89
+Educator / Teacher / Professor,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,88
+Educator / Teacher / Professor,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,85
+Educator / Teacher / Professor,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,84
+Educator / Teacher / Professor,42,Introduction to on-device AI,introduction-to-on-device-ai,83
+Educator / Teacher / Professor,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,82
+Educator / Teacher / Professor,30,Knowledge Graphs for RAG,knowledge-graphs-rag,82
+Educator / Teacher / Professor,24,LLMOps,llmops,81
+Educator / Teacher / Professor,10,Building Generative AI Applications with Gradio,huggingface-gradio,77
+Educator / Teacher / Professor,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,77
+Educator / Teacher / Professor,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,74
+Educator / Teacher / Professor,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,73
+Educator / Teacher / Professor,45,Building Your Own Database Agent,building-your-own-database-agent,73
+Educator / Teacher / Professor,36,Getting Started with Mistral,getting-started-with-mistral,72
+Educator / Teacher / Professor,12,Large Language Models with Semantic Search,large-language-models-semantic-search,69
+Educator / Teacher / Professor,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,68
+Educator / Teacher / Professor,"1,002",Pretraining LLMs,pretraining-llms,66
+Educator / Teacher / Professor,26,Building Applications with Vector Databases,building-applications-vector-databases,62
+Educator / Teacher / Professor,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,50
+Educator / Teacher / Professor,33,Red Teaming LLM Applications,red-teaming-llm-applications,46
+Educator / Teacher / Professor,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,46
+Educator / Teacher / Professor,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,45
+Educator / Teacher / Professor,"1,003",Intro to Federated Learning,intro-to-federated-learning,45
+Educator / Teacher / Professor,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,41
+Educator / Teacher / Professor,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,34
+Educator / Teacher / Professor,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,31
+Educator / Teacher / Professor,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,31
+Educator / Teacher / Professor,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,30
+Educator / Teacher / Professor,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,30
+Educator / Teacher / Professor,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,27
+Educator / Teacher / Professor,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,27
+Educator / Teacher / Professor,25,Automated Testing for LLMOps,automated-testing-llmops,24
+Educator / Teacher / Professor,31,Efficiently Serving LLMs,efficiently-serving-llms,22
+Educator / Teacher / Professor,38,Quantization in Depth,quantization-in-depth,22
+Educator / Teacher / Professor,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,21
+Educator / Teacher / Professor,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,18
+Entrepreneur,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"1,672"
+Entrepreneur,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,752
+Entrepreneur,6,LangChain for LLM Application Development,langchain,557
+Entrepreneur,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,529
+Entrepreneur,9,LangChain Chat with Your Data,langchain-chat-with-your-data,369
+Entrepreneur,8,Building Systems with the ChatGPT API,chatgpt-building-system,350
+Entrepreneur,13,Finetuning Large Language Models,finetuning-large-language-models,347
+Entrepreneur,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,298
+Entrepreneur,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,283
+Entrepreneur,44,AI Agents in LangGraph,ai-agents-in-langgraph,255
+Entrepreneur,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,210
+Entrepreneur,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,204
+Entrepreneur,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,193
+Entrepreneur,7,How Diffusion Models Work,diffusion-models,171
+Entrepreneur,45,Building Your Own Database Agent,building-your-own-database-agent,171
+Entrepreneur,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,166
+Entrepreneur,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,156
+Entrepreneur,30,Knowledge Graphs for RAG,knowledge-graphs-rag,155
+Entrepreneur,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,151
+Entrepreneur,29,Open Source Models with Hugging Face,open-source-models-hugging-face,150
+Entrepreneur,16,Pair Programming with a Large Language Model,pair-programming-llm,150
+Entrepreneur,24,LLMOps,llmops,142
+Entrepreneur,12,Large Language Models with Semantic Search,large-language-models-semantic-search,142
+Entrepreneur,10,Building Generative AI Applications with Gradio,huggingface-gradio,138
+Entrepreneur,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,132
+Entrepreneur,26,Building Applications with Vector Databases,building-applications-vector-databases,128
+Entrepreneur,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,125
+Entrepreneur,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,121
+Entrepreneur,36,Getting Started with Mistral,getting-started-with-mistral,120
+Entrepreneur,42,Introduction to on-device AI,introduction-to-on-device-ai,115
+Entrepreneur,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,113
+Entrepreneur,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,100
+Entrepreneur,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,94
+Entrepreneur,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,93
+Entrepreneur,33,Red Teaming LLM Applications,red-teaming-llm-applications,88
+Entrepreneur,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,86
+Entrepreneur,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,82
+Entrepreneur,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,74
+Entrepreneur,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,73
+Entrepreneur,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,68
+Entrepreneur,"1,002",Pretraining LLMs,pretraining-llms,56
+Entrepreneur,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,54
+Entrepreneur,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,51
+Entrepreneur,25,Automated Testing for LLMOps,automated-testing-llmops,45
+Entrepreneur,"1,003",Intro to Federated Learning,intro-to-federated-learning,38
+Entrepreneur,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,36
+Entrepreneur,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,31
+Entrepreneur,31,Efficiently Serving LLMs,efficiently-serving-llms,30
+Entrepreneur,38,Quantization in Depth,quantization-in-depth,26
+Entrepreneur,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,25
+Entrepreneur,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,11
+Finance,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,749
+Finance,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,384
+Finance,13,Finetuning Large Language Models,finetuning-large-language-models,236
+Finance,16,Pair Programming with a Large Language Model,pair-programming-llm,221
+Finance,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,188
+Finance,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,182
+Finance,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,179
+Finance,6,LangChain for LLM Application Development,langchain,120
+Finance,8,Building Systems with the ChatGPT API,chatgpt-building-system,109
+Finance,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,91
+Finance,9,LangChain Chat with Your Data,langchain-chat-with-your-data,89
+Finance,45,Building Your Own Database Agent,building-your-own-database-agent,56
+Finance,7,How Diffusion Models Work,diffusion-models,52
+Finance,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,50
+Finance,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,48
+Finance,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,48
+Finance,44,AI Agents in LangGraph,ai-agents-in-langgraph,44
+Finance,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,40
+Finance,33,Red Teaming LLM Applications,red-teaming-llm-applications,40
+Finance,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,38
+Finance,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,36
+Finance,29,Open Source Models with Hugging Face,open-source-models-hugging-face,36
+Finance,36,Getting Started with Mistral,getting-started-with-mistral,35
+Finance,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,34
+Finance,30,Knowledge Graphs for RAG,knowledge-graphs-rag,33
+Finance,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,33
+Finance,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,33
+Finance,10,Building Generative AI Applications with Gradio,huggingface-gradio,32
+Finance,24,LLMOps,llmops,29
+Finance,12,Large Language Models with Semantic Search,large-language-models-semantic-search,25
+Finance,42,Introduction to on-device AI,introduction-to-on-device-ai,24
+Finance,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,23
+Finance,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,21
+Finance,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,19
+Finance,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,19
+Finance,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,18
+Finance,26,Building Applications with Vector Databases,building-applications-vector-databases,18
+Finance,"1,002",Pretraining LLMs,pretraining-llms,18
+Finance,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,15
+Finance,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,14
+Finance,25,Automated Testing for LLMOps,automated-testing-llmops,14
+Finance,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,13
+Finance,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,13
+Finance,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,13
+Finance,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,12
+Finance,"1,003",Intro to Federated Learning,intro-to-federated-learning,11
+Finance,31,Efficiently Serving LLMs,efficiently-serving-llms,11
+Finance,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,10
+Finance,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,9
+Finance,38,Quantization in Depth,quantization-in-depth,9
+Finance,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,7
+General Management / Executive,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"1,557"
+General Management / Executive,16,Pair Programming with a Large Language Model,pair-programming-llm,655
+General Management / Executive,13,Finetuning Large Language Models,finetuning-large-language-models,631
+General Management / Executive,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,559
+General Management / Executive,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,529
+General Management / Executive,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,427
+General Management / Executive,6,LangChain for LLM Application Development,langchain,347
+General Management / Executive,9,LangChain Chat with Your Data,langchain-chat-with-your-data,311
+General Management / Executive,8,Building Systems with the ChatGPT API,chatgpt-building-system,289
+General Management / Executive,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,228
+General Management / Executive,7,How Diffusion Models Work,diffusion-models,210
+General Management / Executive,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,194
+General Management / Executive,24,LLMOps,llmops,126
+General Management / Executive,44,AI Agents in LangGraph,ai-agents-in-langgraph,121
+General Management / Executive,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,114
+General Management / Executive,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,111
+General Management / Executive,12,Large Language Models with Semantic Search,large-language-models-semantic-search,107
+General Management / Executive,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,104
+General Management / Executive,30,Knowledge Graphs for RAG,knowledge-graphs-rag,101
+General Management / Executive,45,Building Your Own Database Agent,building-your-own-database-agent,98
+General Management / Executive,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,93
+General Management / Executive,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,89
+General Management / Executive,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,87
+General Management / Executive,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,85
+General Management / Executive,26,Building Applications with Vector Databases,building-applications-vector-databases,84
+General Management / Executive,10,Building Generative AI Applications with Gradio,huggingface-gradio,79
+General Management / Executive,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,73
+General Management / Executive,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,73
+General Management / Executive,29,Open Source Models with Hugging Face,open-source-models-hugging-face,68
+General Management / Executive,33,Red Teaming LLM Applications,red-teaming-llm-applications,68
+General Management / Executive,42,Introduction to on-device AI,introduction-to-on-device-ai,63
+General Management / Executive,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,62
+General Management / Executive,36,Getting Started with Mistral,getting-started-with-mistral,62
+General Management / Executive,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,59
+General Management / Executive,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,55
+General Management / Executive,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,51
+General Management / Executive,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,51
+General Management / Executive,25,Automated Testing for LLMOps,automated-testing-llmops,50
+General Management / Executive,"1,002",Pretraining LLMs,pretraining-llms,42
+General Management / Executive,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,36
+General Management / Executive,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,34
+General Management / Executive,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,31
+General Management / Executive,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,28
+General Management / Executive,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,28
+General Management / Executive,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,27
+General Management / Executive,31,Efficiently Serving LLMs,efficiently-serving-llms,25
+General Management / Executive,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,25
+General Management / Executive,"1,003",Intro to Federated Learning,intro-to-federated-learning,18
+General Management / Executive,38,Quantization in Depth,quantization-in-depth,14
+General Management / Executive,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,14
+General Management / Executive,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,4
+Hardware Engineer,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,437
+Hardware Engineer,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,143
+Hardware Engineer,13,Finetuning Large Language Models,finetuning-large-language-models,106
+Hardware Engineer,16,Pair Programming with a Large Language Model,pair-programming-llm,104
+Hardware Engineer,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,96
+Hardware Engineer,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,89
+Hardware Engineer,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,66
+Hardware Engineer,9,LangChain Chat with Your Data,langchain-chat-with-your-data,55
+Hardware Engineer,8,Building Systems with the ChatGPT API,chatgpt-building-system,48
+Hardware Engineer,42,Introduction to on-device AI,introduction-to-on-device-ai,44
+Hardware Engineer,7,How Diffusion Models Work,diffusion-models,39
+Hardware Engineer,6,LangChain for LLM Application Development,langchain,38
+Hardware Engineer,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,23
+Hardware Engineer,29,Open Source Models with Hugging Face,open-source-models-hugging-face,20
+Hardware Engineer,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,19
+Hardware Engineer,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,16
+Hardware Engineer,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,14
+Hardware Engineer,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,13
+Hardware Engineer,12,Large Language Models with Semantic Search,large-language-models-semantic-search,13
+Hardware Engineer,24,LLMOps,llmops,13
+Hardware Engineer,30,Knowledge Graphs for RAG,knowledge-graphs-rag,12
+Hardware Engineer,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,11
+Hardware Engineer,45,Building Your Own Database Agent,building-your-own-database-agent,11
+Hardware Engineer,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,10
+Hardware Engineer,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,9
+Hardware Engineer,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,9
+Hardware Engineer,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,8
+Hardware Engineer,36,Getting Started with Mistral,getting-started-with-mistral,8
+Hardware Engineer,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,7
+Hardware Engineer,10,Building Generative AI Applications with Gradio,huggingface-gradio,7
+Hardware Engineer,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,7
+Hardware Engineer,44,AI Agents in LangGraph,ai-agents-in-langgraph,7
+Hardware Engineer,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,7
+Hardware Engineer,26,Building Applications with Vector Databases,building-applications-vector-databases,7
+Hardware Engineer,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,6
+Hardware Engineer,"1,002",Pretraining LLMs,pretraining-llms,6
+Hardware Engineer,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,5
+Hardware Engineer,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,5
+Hardware Engineer,33,Red Teaming LLM Applications,red-teaming-llm-applications,5
+Hardware Engineer,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,5
+Hardware Engineer,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,3
+Hardware Engineer,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,3
+Hardware Engineer,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,3
+Hardware Engineer,38,Quantization in Depth,quantization-in-depth,3
+Hardware Engineer,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,2
+Hardware Engineer,25,Automated Testing for LLMOps,automated-testing-llmops,2
+Hardware Engineer,"1,003",Intro to Federated Learning,intro-to-federated-learning,2
+Hardware Engineer,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,1
+Hardware Engineer,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,1
+Hardware Engineer,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,1
+Hardware Engineer,31,Efficiently Serving LLMs,efficiently-serving-llms,1
+Healthcare Professional,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,334
+Healthcare Professional,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,252
+Healthcare Professional,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,115
+Healthcare Professional,6,LangChain for LLM Application Development,langchain,71
+Healthcare Professional,13,Finetuning Large Language Models,finetuning-large-language-models,69
+Healthcare Professional,9,LangChain Chat with Your Data,langchain-chat-with-your-data,66
+Healthcare Professional,8,Building Systems with the ChatGPT API,chatgpt-building-system,58
+Healthcare Professional,7,How Diffusion Models Work,diffusion-models,49
+Healthcare Professional,16,Pair Programming with a Large Language Model,pair-programming-llm,46
+Healthcare Professional,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,42
+Healthcare Professional,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,40
+Healthcare Professional,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,39
+Healthcare Professional,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,38
+Healthcare Professional,10,Building Generative AI Applications with Gradio,huggingface-gradio,32
+Healthcare Professional,12,Large Language Models with Semantic Search,large-language-models-semantic-search,29
+Healthcare Professional,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,28
+Healthcare Professional,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,27
+Healthcare Professional,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,27
+Healthcare Professional,30,Knowledge Graphs for RAG,knowledge-graphs-rag,26
+Healthcare Professional,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,24
+Healthcare Professional,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,24
+Healthcare Professional,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,21
+Healthcare Professional,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,20
+Healthcare Professional,24,LLMOps,llmops,19
+Healthcare Professional,44,AI Agents in LangGraph,ai-agents-in-langgraph,19
+Healthcare Professional,42,Introduction to on-device AI,introduction-to-on-device-ai,19
+Healthcare Professional,29,Open Source Models with Hugging Face,open-source-models-hugging-face,18
+Healthcare Professional,45,Building Your Own Database Agent,building-your-own-database-agent,18
+Healthcare Professional,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,18
+Healthcare Professional,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,18
+Healthcare Professional,36,Getting Started with Mistral,getting-started-with-mistral,17
+Healthcare Professional,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,17
+Healthcare Professional,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,16
+Healthcare Professional,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,16
+Healthcare Professional,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,15
+Healthcare Professional,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,14
+Healthcare Professional,"1,002",Pretraining LLMs,pretraining-llms,14
+Healthcare Professional,26,Building Applications with Vector Databases,building-applications-vector-databases,13
+Healthcare Professional,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,12
+Healthcare Professional,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,12
+Healthcare Professional,25,Automated Testing for LLMOps,automated-testing-llmops,10
+Healthcare Professional,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,10
+Healthcare Professional,"1,003",Intro to Federated Learning,intro-to-federated-learning,10
+Healthcare Professional,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,9
+Healthcare Professional,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,9
+Healthcare Professional,33,Red Teaming LLM Applications,red-teaming-llm-applications,8
+Healthcare Professional,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,8
+Healthcare Professional,31,Efficiently Serving LLMs,efficiently-serving-llms,7
+Healthcare Professional,38,Quantization in Depth,quantization-in-depth,6
+Healthcare Professional,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,6
+Healthcare Professional,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,6
+Human Resource Professional,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,138
+Human Resource Professional,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,55
+Human Resource Professional,16,Pair Programming with a Large Language Model,pair-programming-llm,32
+Human Resource Professional,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,27
+Human Resource Professional,13,Finetuning Large Language Models,finetuning-large-language-models,25
+Human Resource Professional,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,23
+Human Resource Professional,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,19
+Human Resource Professional,8,Building Systems with the ChatGPT API,chatgpt-building-system,16
+Human Resource Professional,9,LangChain Chat with Your Data,langchain-chat-with-your-data,10
+Human Resource Professional,6,LangChain for LLM Application Development,langchain,8
+Human Resource Professional,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,7
+Human Resource Professional,45,Building Your Own Database Agent,building-your-own-database-agent,6
+Human Resource Professional,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,5
+Human Resource Professional,29,Open Source Models with Hugging Face,open-source-models-hugging-face,5
+Human Resource Professional,10,Building Generative AI Applications with Gradio,huggingface-gradio,5
+Human Resource Professional,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,5
+Human Resource Professional,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,3
+Human Resource Professional,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,3
+Human Resource Professional,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,3
+Human Resource Professional,12,Large Language Models with Semantic Search,large-language-models-semantic-search,3
+Human Resource Professional,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,3
+Human Resource Professional,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,3
+Human Resource Professional,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,3
+Human Resource Professional,7,How Diffusion Models Work,diffusion-models,2
+Human Resource Professional,"1,002",Pretraining LLMs,pretraining-llms,2
+Human Resource Professional,24,LLMOps,llmops,2
+Human Resource Professional,"1,003",Intro to Federated Learning,intro-to-federated-learning,2
+Human Resource Professional,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,2
+Human Resource Professional,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,1
+Human Resource Professional,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,1
+Human Resource Professional,36,Getting Started with Mistral,getting-started-with-mistral,1
+Human Resource Professional,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,1
+Human Resource Professional,33,Red Teaming LLM Applications,red-teaming-llm-applications,1
+Human Resource Professional,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,1
+Human Resource Professional,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,1
+Human Resource Professional,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,1
+Human Resource Professional,42,Introduction to on-device AI,introduction-to-on-device-ai,1
+Human Resource Professional,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,1
+Human Resource Professional,25,Automated Testing for LLMOps,automated-testing-llmops,1
+Human Resource Professional,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,1
+Human Resource Professional,26,Building Applications with Vector Databases,building-applications-vector-databases,1
+Human Resource Professional,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,1
+Human Resource Professional,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,1
+Legal / Law Professional,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,99
+Legal / Law Professional,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,63
+Legal / Law Professional,13,Finetuning Large Language Models,finetuning-large-language-models,29
+Legal / Law Professional,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,28
+Legal / Law Professional,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,15
+Legal / Law Professional,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,12
+Legal / Law Professional,8,Building Systems with the ChatGPT API,chatgpt-building-system,12
+Legal / Law Professional,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,12
+Legal / Law Professional,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,11
+Legal / Law Professional,36,Getting Started with Mistral,getting-started-with-mistral,11
+Legal / Law Professional,9,LangChain Chat with Your Data,langchain-chat-with-your-data,10
+Legal / Law Professional,6,LangChain for LLM Application Development,langchain,10
+Legal / Law Professional,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,9
+Legal / Law Professional,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,9
+Legal / Law Professional,16,Pair Programming with a Large Language Model,pair-programming-llm,7
+Legal / Law Professional,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,7
+Legal / Law Professional,45,Building Your Own Database Agent,building-your-own-database-agent,7
+Legal / Law Professional,12,Large Language Models with Semantic Search,large-language-models-semantic-search,6
+Legal / Law Professional,"1,002",Pretraining LLMs,pretraining-llms,6
+Legal / Law Professional,24,LLMOps,llmops,5
+Legal / Law Professional,7,How Diffusion Models Work,diffusion-models,5
+Legal / Law Professional,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,5
+Legal / Law Professional,30,Knowledge Graphs for RAG,knowledge-graphs-rag,5
+Legal / Law Professional,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,4
+Legal / Law Professional,29,Open Source Models with Hugging Face,open-source-models-hugging-face,4
+Legal / Law Professional,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,3
+Legal / Law Professional,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,3
+Legal / Law Professional,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,3
+Legal / Law Professional,44,AI Agents in LangGraph,ai-agents-in-langgraph,3
+Legal / Law Professional,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,3
+Legal / Law Professional,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,3
+Legal / Law Professional,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,3
+Legal / Law Professional,10,Building Generative AI Applications with Gradio,huggingface-gradio,2
+Legal / Law Professional,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,2
+Legal / Law Professional,33,Red Teaming LLM Applications,red-teaming-llm-applications,2
+Legal / Law Professional,"1,003",Intro to Federated Learning,intro-to-federated-learning,2
+Legal / Law Professional,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,2
+Legal / Law Professional,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,2
+Legal / Law Professional,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,1
+Legal / Law Professional,25,Automated Testing for LLMOps,automated-testing-llmops,1
+Legal / Law Professional,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,1
+Legal / Law Professional,42,Introduction to on-device AI,introduction-to-on-device-ai,1
+Legal / Law Professional,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,1
+Legal / Law Professional,38,Quantization in Depth,quantization-in-depth,1
+Legal / Law Professional,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,1
+Legal / Law Professional,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,1
+Machine Learning Engineer,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"3,626"
+Machine Learning Engineer,6,LangChain for LLM Application Development,langchain,"2,065"
+Machine Learning Engineer,13,Finetuning Large Language Models,finetuning-large-language-models,"1,595"
+Machine Learning Engineer,9,LangChain Chat with Your Data,langchain-chat-with-your-data,"1,590"
+Machine Learning Engineer,7,How Diffusion Models Work,diffusion-models,"1,003"
+Machine Learning Engineer,8,Building Systems with the ChatGPT API,chatgpt-building-system,871
+Machine Learning Engineer,24,LLMOps,llmops,773
+Machine Learning Engineer,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,760
+Machine Learning Engineer,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,722
+Machine Learning Engineer,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,721
+Machine Learning Engineer,44,AI Agents in LangGraph,ai-agents-in-langgraph,717
+Machine Learning Engineer,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,716
+Machine Learning Engineer,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,710
+Machine Learning Engineer,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,661
+Machine Learning Engineer,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,658
+Machine Learning Engineer,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,649
+Machine Learning Engineer,30,Knowledge Graphs for RAG,knowledge-graphs-rag,567
+Machine Learning Engineer,12,Large Language Models with Semantic Search,large-language-models-semantic-search,556
+Machine Learning Engineer,16,Pair Programming with a Large Language Model,pair-programming-llm,541
+Machine Learning Engineer,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,534
+Machine Learning Engineer,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,514
+Machine Learning Engineer,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,465
+Machine Learning Engineer,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,443
+Machine Learning Engineer,10,Building Generative AI Applications with Gradio,huggingface-gradio,422
+Machine Learning Engineer,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,420
+Machine Learning Engineer,29,Open Source Models with Hugging Face,open-source-models-hugging-face,395
+Machine Learning Engineer,26,Building Applications with Vector Databases,building-applications-vector-databases,364
+Machine Learning Engineer,36,Getting Started with Mistral,getting-started-with-mistral,358
+Machine Learning Engineer,45,Building Your Own Database Agent,building-your-own-database-agent,351
+Machine Learning Engineer,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,345
+Machine Learning Engineer,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,309
+Machine Learning Engineer,"1,002",Pretraining LLMs,pretraining-llms,308
+Machine Learning Engineer,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,302
+Machine Learning Engineer,42,Introduction to on-device AI,introduction-to-on-device-ai,292
+Machine Learning Engineer,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,263
+Machine Learning Engineer,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,251
+Machine Learning Engineer,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,238
+Machine Learning Engineer,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,231
+Machine Learning Engineer,25,Automated Testing for LLMOps,automated-testing-llmops,221
+Machine Learning Engineer,33,Red Teaming LLM Applications,red-teaming-llm-applications,203
+Machine Learning Engineer,31,Efficiently Serving LLMs,efficiently-serving-llms,202
+Machine Learning Engineer,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,191
+Machine Learning Engineer,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,176
+Machine Learning Engineer,38,Quantization in Depth,quantization-in-depth,175
+Machine Learning Engineer,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,150
+Machine Learning Engineer,"1,003",Intro to Federated Learning,intro-to-federated-learning,150
+Machine Learning Engineer,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,148
+Machine Learning Engineer,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,114
+Machine Learning Engineer,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,101
+Machine Learning Engineer,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,76
+Machine Learning Engineer,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,57
+Machine Learning Researcher,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,934
+Machine Learning Researcher,7,How Diffusion Models Work,diffusion-models,528
+Machine Learning Researcher,13,Finetuning Large Language Models,finetuning-large-language-models,514
+Machine Learning Researcher,6,LangChain for LLM Application Development,langchain,419
+Machine Learning Researcher,9,LangChain Chat with Your Data,langchain-chat-with-your-data,370
+Machine Learning Researcher,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,301
+Machine Learning Researcher,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,249
+Machine Learning Researcher,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,218
+Machine Learning Researcher,8,Building Systems with the ChatGPT API,chatgpt-building-system,203
+Machine Learning Researcher,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,201
+Machine Learning Researcher,24,LLMOps,llmops,191
+Machine Learning Researcher,30,Knowledge Graphs for RAG,knowledge-graphs-rag,181
+Machine Learning Researcher,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,180
+Machine Learning Researcher,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,170
+Machine Learning Researcher,44,AI Agents in LangGraph,ai-agents-in-langgraph,168
+Machine Learning Researcher,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,166
+Machine Learning Researcher,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,164
+Machine Learning Researcher,29,Open Source Models with Hugging Face,open-source-models-hugging-face,161
+Machine Learning Researcher,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,158
+Machine Learning Researcher,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,148
+Machine Learning Researcher,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,148
+Machine Learning Researcher,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,140
+Machine Learning Researcher,42,Introduction to on-device AI,introduction-to-on-device-ai,135
+Machine Learning Researcher,12,Large Language Models with Semantic Search,large-language-models-semantic-search,134
+Machine Learning Researcher,16,Pair Programming with a Large Language Model,pair-programming-llm,134
+Machine Learning Researcher,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,125
+Machine Learning Researcher,36,Getting Started with Mistral,getting-started-with-mistral,121
+Machine Learning Researcher,10,Building Generative AI Applications with Gradio,huggingface-gradio,117
+Machine Learning Researcher,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,116
+Machine Learning Researcher,"1,002",Pretraining LLMs,pretraining-llms,116
+Machine Learning Researcher,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,104
+Machine Learning Researcher,"1,003",Intro to Federated Learning,intro-to-federated-learning,104
+Machine Learning Researcher,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,95
+Machine Learning Researcher,33,Red Teaming LLM Applications,red-teaming-llm-applications,92
+Machine Learning Researcher,26,Building Applications with Vector Databases,building-applications-vector-databases,90
+Machine Learning Researcher,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,85
+Machine Learning Researcher,45,Building Your Own Database Agent,building-your-own-database-agent,84
+Machine Learning Researcher,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,76
+Machine Learning Researcher,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,74
+Machine Learning Researcher,38,Quantization in Depth,quantization-in-depth,68
+Machine Learning Researcher,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,64
+Machine Learning Researcher,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,63
+Machine Learning Researcher,31,Efficiently Serving LLMs,efficiently-serving-llms,47
+Machine Learning Researcher,25,Automated Testing for LLMOps,automated-testing-llmops,44
+Machine Learning Researcher,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,43
+Machine Learning Researcher,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,42
+Machine Learning Researcher,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,41
+Machine Learning Researcher,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,39
+Machine Learning Researcher,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,34
+Machine Learning Researcher,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,28
+Machine Learning Researcher,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,22
+Marketing / PR / Sales,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,562
+Marketing / PR / Sales,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,263
+Marketing / PR / Sales,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,94
+Marketing / PR / Sales,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,79
+Marketing / PR / Sales,8,Building Systems with the ChatGPT API,chatgpt-building-system,66
+Marketing / PR / Sales,13,Finetuning Large Language Models,finetuning-large-language-models,66
+Marketing / PR / Sales,9,LangChain Chat with Your Data,langchain-chat-with-your-data,61
+Marketing / PR / Sales,6,LangChain for LLM Application Development,langchain,56
+Marketing / PR / Sales,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,44
+Marketing / PR / Sales,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,43
+Marketing / PR / Sales,16,Pair Programming with a Large Language Model,pair-programming-llm,41
+Marketing / PR / Sales,7,How Diffusion Models Work,diffusion-models,41
+Marketing / PR / Sales,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,27
+Marketing / PR / Sales,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,26
+Marketing / PR / Sales,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,24
+Marketing / PR / Sales,12,Large Language Models with Semantic Search,large-language-models-semantic-search,24
+Marketing / PR / Sales,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,24
+Marketing / PR / Sales,29,Open Source Models with Hugging Face,open-source-models-hugging-face,22
+Marketing / PR / Sales,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,22
+Marketing / PR / Sales,24,LLMOps,llmops,20
+Marketing / PR / Sales,42,Introduction to on-device AI,introduction-to-on-device-ai,19
+Marketing / PR / Sales,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,19
+Marketing / PR / Sales,10,Building Generative AI Applications with Gradio,huggingface-gradio,19
+Marketing / PR / Sales,45,Building Your Own Database Agent,building-your-own-database-agent,18
+Marketing / PR / Sales,44,AI Agents in LangGraph,ai-agents-in-langgraph,18
+Marketing / PR / Sales,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,16
+Marketing / PR / Sales,36,Getting Started with Mistral,getting-started-with-mistral,15
+Marketing / PR / Sales,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,15
+Marketing / PR / Sales,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,14
+Marketing / PR / Sales,26,Building Applications with Vector Databases,building-applications-vector-databases,14
+Marketing / PR / Sales,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,13
+Marketing / PR / Sales,"1,002",Pretraining LLMs,pretraining-llms,12
+Marketing / PR / Sales,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,12
+Marketing / PR / Sales,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,12
+Marketing / PR / Sales,33,Red Teaming LLM Applications,red-teaming-llm-applications,12
+Marketing / PR / Sales,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,11
+Marketing / PR / Sales,30,Knowledge Graphs for RAG,knowledge-graphs-rag,11
+Marketing / PR / Sales,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,10
+Marketing / PR / Sales,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,9
+Marketing / PR / Sales,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,9
+Marketing / PR / Sales,"1,003",Intro to Federated Learning,intro-to-federated-learning,8
+Marketing / PR / Sales,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,7
+Marketing / PR / Sales,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,7
+Marketing / PR / Sales,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,6
+Marketing / PR / Sales,25,Automated Testing for LLMOps,automated-testing-llmops,6
+Marketing / PR / Sales,31,Efficiently Serving LLMs,efficiently-serving-llms,5
+Marketing / PR / Sales,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,4
+Marketing / PR / Sales,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,4
+Marketing / PR / Sales,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,4
+Marketing / PR / Sales,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,3
+Marketing / PR / Sales,38,Quantization in Depth,quantization-in-depth,2
+Other,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"12,181"
+Other,13,Finetuning Large Language Models,finetuning-large-language-models,"4,928"
+Other,16,Pair Programming with a Large Language Model,pair-programming-llm,"4,797"
+Other,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,"3,934"
+Other,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,"3,741"
+Other,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,"2,492"
+Other,6,LangChain for LLM Application Development,langchain,"2,393"
+Other,8,Building Systems with the ChatGPT API,chatgpt-building-system,"2,316"
+Other,9,LangChain Chat with Your Data,langchain-chat-with-your-data,"2,225"
+Other,7,How Diffusion Models Work,diffusion-models,"1,798"
+Other,12,Large Language Models with Semantic Search,large-language-models-semantic-search,"1,266"
+Other,10,Building Generative AI Applications with Gradio,huggingface-gradio,"1,227"
+Other,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,"1,049"
+Other,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,"1,029"
+Other,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,"1,002"
+Other,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,625
+Other,29,Open Source Models with Hugging Face,open-source-models-hugging-face,607
+Other,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,595
+Other,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,561
+Other,24,LLMOps,llmops,535
+Other,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,514
+Other,33,Red Teaming LLM Applications,red-teaming-llm-applications,480
+Other,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,473
+Other,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,470
+Other,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,464
+Other,44,AI Agents in LangGraph,ai-agents-in-langgraph,447
+Other,30,Knowledge Graphs for RAG,knowledge-graphs-rag,406
+Other,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,404
+Other,26,Building Applications with Vector Databases,building-applications-vector-databases,404
+Other,36,Getting Started with Mistral,getting-started-with-mistral,394
+Other,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,388
+Other,45,Building Your Own Database Agent,building-your-own-database-agent,381
+Other,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,377
+Other,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,362
+Other,42,Introduction to on-device AI,introduction-to-on-device-ai,357
+Other,25,Automated Testing for LLMOps,automated-testing-llmops,301
+Other,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,285
+Other,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,279
+Other,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,278
+Other,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,266
+Other,"1,002",Pretraining LLMs,pretraining-llms,212
+Other,31,Efficiently Serving LLMs,efficiently-serving-llms,207
+Other,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,201
+Other,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,201
+Other,"1,003",Intro to Federated Learning,intro-to-federated-learning,160
+Other,38,Quantization in Depth,quantization-in-depth,131
+Other,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,124
+Other,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,122
+Other,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,109
+Other,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,93
+Other,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,66
+Prefer not to answer,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"8,849"
+Prefer not to answer,16,Pair Programming with a Large Language Model,pair-programming-llm,"3,748"
+Prefer not to answer,13,Finetuning Large Language Models,finetuning-large-language-models,"3,711"
+Prefer not to answer,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,"3,451"
+Prefer not to answer,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,"3,052"
+Prefer not to answer,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,"1,820"
+Prefer not to answer,6,LangChain for LLM Application Development,langchain,"1,621"
+Prefer not to answer,9,LangChain Chat with Your Data,langchain-chat-with-your-data,"1,356"
+Prefer not to answer,8,Building Systems with the ChatGPT API,chatgpt-building-system,"1,130"
+Prefer not to answer,7,How Diffusion Models Work,diffusion-models,770
+Prefer not to answer,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,737
+Prefer not to answer,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,683
+Prefer not to answer,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,597
+Prefer not to answer,44,AI Agents in LangGraph,ai-agents-in-langgraph,596
+Prefer not to answer,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,536
+Prefer not to answer,29,Open Source Models with Hugging Face,open-source-models-hugging-face,503
+Prefer not to answer,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,475
+Prefer not to answer,12,Large Language Models with Semantic Search,large-language-models-semantic-search,441
+Prefer not to answer,30,Knowledge Graphs for RAG,knowledge-graphs-rag,409
+Prefer not to answer,10,Building Generative AI Applications with Gradio,huggingface-gradio,406
+Prefer not to answer,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,400
+Prefer not to answer,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,386
+Prefer not to answer,42,Introduction to on-device AI,introduction-to-on-device-ai,385
+Prefer not to answer,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,364
+Prefer not to answer,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,362
+Prefer not to answer,45,Building Your Own Database Agent,building-your-own-database-agent,358
+Prefer not to answer,24,LLMOps,llmops,352
+Prefer not to answer,36,Getting Started with Mistral,getting-started-with-mistral,336
+Prefer not to answer,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,330
+Prefer not to answer,33,Red Teaming LLM Applications,red-teaming-llm-applications,325
+Prefer not to answer,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,316
+Prefer not to answer,26,Building Applications with Vector Databases,building-applications-vector-databases,282
+Prefer not to answer,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,278
+Prefer not to answer,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,275
+Prefer not to answer,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,269
+Prefer not to answer,"1,002",Pretraining LLMs,pretraining-llms,240
+Prefer not to answer,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,239
+Prefer not to answer,25,Automated Testing for LLMOps,automated-testing-llmops,201
+Prefer not to answer,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,197
+Prefer not to answer,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,190
+Prefer not to answer,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,175
+Prefer not to answer,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,170
+Prefer not to answer,"1,003",Intro to Federated Learning,intro-to-federated-learning,163
+Prefer not to answer,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,152
+Prefer not to answer,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,147
+Prefer not to answer,38,Quantization in Depth,quantization-in-depth,143
+Prefer not to answer,31,Efficiently Serving LLMs,efficiently-serving-llms,142
+Prefer not to answer,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,127
+Prefer not to answer,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,119
+Prefer not to answer,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,113
+Prefer not to answer,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,63
+Product Management,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"2,198"
+Product Management,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,737
+Product Management,13,Finetuning Large Language Models,finetuning-large-language-models,658
+Product Management,16,Pair Programming with a Large Language Model,pair-programming-llm,538
+Product Management,6,LangChain for LLM Application Development,langchain,536
+Product Management,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,509
+Product Management,8,Building Systems with the ChatGPT API,chatgpt-building-system,475
+Product Management,9,LangChain Chat with Your Data,langchain-chat-with-your-data,470
+Product Management,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,445
+Product Management,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,333
+Product Management,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,325
+Product Management,7,How Diffusion Models Work,diffusion-models,254
+Product Management,12,Large Language Models with Semantic Search,large-language-models-semantic-search,213
+Product Management,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,181
+Product Management,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,157
+Product Management,24,LLMOps,llmops,145
+Product Management,44,AI Agents in LangGraph,ai-agents-in-langgraph,144
+Product Management,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,142
+Product Management,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,140
+Product Management,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,140
+Product Management,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,127
+Product Management,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,127
+Product Management,45,Building Your Own Database Agent,building-your-own-database-agent,120
+Product Management,30,Knowledge Graphs for RAG,knowledge-graphs-rag,118
+Product Management,10,Building Generative AI Applications with Gradio,huggingface-gradio,113
+Product Management,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,105
+Product Management,29,Open Source Models with Hugging Face,open-source-models-hugging-face,102
+Product Management,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,99
+Product Management,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,98
+Product Management,26,Building Applications with Vector Databases,building-applications-vector-databases,95
+Product Management,36,Getting Started with Mistral,getting-started-with-mistral,91
+Product Management,42,Introduction to on-device AI,introduction-to-on-device-ai,75
+Product Management,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,67
+Product Management,33,Red Teaming LLM Applications,red-teaming-llm-applications,66
+Product Management,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,65
+Product Management,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,58
+Product Management,25,Automated Testing for LLMOps,automated-testing-llmops,57
+Product Management,"1,002",Pretraining LLMs,pretraining-llms,57
+Product Management,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,54
+Product Management,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,50
+Product Management,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,49
+Product Management,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,49
+Product Management,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,47
+Product Management,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,44
+Product Management,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,31
+Product Management,31,Efficiently Serving LLMs,efficiently-serving-llms,27
+Product Management,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,25
+Product Management,"1,003",Intro to Federated Learning,intro-to-federated-learning,25
+Product Management,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,22
+Product Management,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,11
+Product Management,38,Quantization in Depth,quantization-in-depth,11
+Software Engineer,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"44,498"
+Software Engineer,16,Pair Programming with a Large Language Model,pair-programming-llm,"19,599"
+Software Engineer,13,Finetuning Large Language Models,finetuning-large-language-models,"17,663"
+Software Engineer,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,"14,977"
+Software Engineer,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,"14,782"
+Software Engineer,6,LangChain for LLM Application Development,langchain,"9,401"
+Software Engineer,8,Building Systems with the ChatGPT API,chatgpt-building-system,"8,665"
+Software Engineer,9,LangChain Chat with Your Data,langchain-chat-with-your-data,"7,432"
+Software Engineer,7,How Diffusion Models Work,diffusion-models,"5,646"
+Software Engineer,12,Large Language Models with Semantic Search,large-language-models-semantic-search,"4,905"
+Software Engineer,10,Building Generative AI Applications with Gradio,huggingface-gradio,"4,580"
+Software Engineer,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,"4,424"
+Software Engineer,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,"4,284"
+Software Engineer,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,"2,590"
+Software Engineer,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,"2,090"
+Software Engineer,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,"1,869"
+Software Engineer,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,"1,764"
+Software Engineer,26,Building Applications with Vector Databases,building-applications-vector-databases,"1,683"
+Software Engineer,24,LLMOps,llmops,"1,591"
+Software Engineer,29,Open Source Models with Hugging Face,open-source-models-hugging-face,"1,527"
+Software Engineer,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,"1,502"
+Software Engineer,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,"1,483"
+Software Engineer,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,"1,473"
+Software Engineer,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,"1,466"
+Software Engineer,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,"1,424"
+Software Engineer,25,Automated Testing for LLMOps,automated-testing-llmops,"1,399"
+Software Engineer,44,AI Agents in LangGraph,ai-agents-in-langgraph,"1,391"
+Software Engineer,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,"1,314"
+Software Engineer,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,"1,265"
+Software Engineer,30,Knowledge Graphs for RAG,knowledge-graphs-rag,"1,256"
+Software Engineer,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,"1,250"
+Software Engineer,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,"1,124"
+Software Engineer,45,Building Your Own Database Agent,building-your-own-database-agent,"1,077"
+Software Engineer,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,"1,059"
+Software Engineer,36,Getting Started with Mistral,getting-started-with-mistral,"1,038"
+Software Engineer,42,Introduction to on-device AI,introduction-to-on-device-ai,933
+Software Engineer,31,Efficiently Serving LLMs,efficiently-serving-llms,926
+Software Engineer,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,909
+Software Engineer,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,829
+Software Engineer,33,Red Teaming LLM Applications,red-teaming-llm-applications,799
+Software Engineer,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,702
+Software Engineer,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,650
+Software Engineer,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,643
+Software Engineer,"1,002",Pretraining LLMs,pretraining-llms,518
+Software Engineer,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,488
+Software Engineer,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,437
+Software Engineer,38,Quantization in Depth,quantization-in-depth,436
+Software Engineer,"1,003",Intro to Federated Learning,intro-to-federated-learning,393
+Software Engineer,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,331
+Software Engineer,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,302
+Software Engineer,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,238
+Software Engineer - Machine Learning,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"3,276"
+Software Engineer - Machine Learning,6,LangChain for LLM Application Development,langchain,"1,413"
+Software Engineer - Machine Learning,13,Finetuning Large Language Models,finetuning-large-language-models,"1,094"
+Software Engineer - Machine Learning,9,LangChain Chat with Your Data,langchain-chat-with-your-data,"1,089"
+Software Engineer - Machine Learning,8,Building Systems with the ChatGPT API,chatgpt-building-system,725
+Software Engineer - Machine Learning,16,Pair Programming with a Large Language Model,pair-programming-llm,691
+Software Engineer - Machine Learning,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,672
+Software Engineer - Machine Learning,7,How Diffusion Models Work,diffusion-models,610
+Software Engineer - Machine Learning,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,586
+Software Engineer - Machine Learning,44,AI Agents in LangGraph,ai-agents-in-langgraph,498
+Software Engineer - Machine Learning,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,494
+Software Engineer - Machine Learning,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,475
+Software Engineer - Machine Learning,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,468
+Software Engineer - Machine Learning,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,451
+Software Engineer - Machine Learning,12,Large Language Models with Semantic Search,large-language-models-semantic-search,422
+Software Engineer - Machine Learning,24,LLMOps,llmops,400
+Software Engineer - Machine Learning,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,392
+Software Engineer - Machine Learning,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,377
+Software Engineer - Machine Learning,43,AI Agentic Design Patterns with AutoGen,ai-agentic-design-patterns-with-autogen,350
+Software Engineer - Machine Learning,30,Knowledge Graphs for RAG,knowledge-graphs-rag,347
+Software Engineer - Machine Learning,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,338
+Software Engineer - Machine Learning,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,325
+Software Engineer - Machine Learning,10,Building Generative AI Applications with Gradio,huggingface-gradio,313
+Software Engineer - Machine Learning,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,299
+Software Engineer - Machine Learning,29,Open Source Models with Hugging Face,open-source-models-hugging-face,283
+Software Engineer - Machine Learning,45,Building Your Own Database Agent,building-your-own-database-agent,273
+Software Engineer - Machine Learning,26,Building Applications with Vector Databases,building-applications-vector-databases,261
+Software Engineer - Machine Learning,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,255
+Software Engineer - Machine Learning,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,251
+Software Engineer - Machine Learning,36,Getting Started with Mistral,getting-started-with-mistral,214
+Software Engineer - Machine Learning,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,203
+Software Engineer - Machine Learning,42,Introduction to on-device AI,introduction-to-on-device-ai,198
+Software Engineer - Machine Learning,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,197
+Software Engineer - Machine Learning,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,184
+Software Engineer - Machine Learning,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,180
+Software Engineer - Machine Learning,"1,002",Pretraining LLMs,pretraining-llms,178
+Software Engineer - Machine Learning,46,Function-calling and data extraction with LLMs,function-calling-and-data-extraction-with-llms,176
+Software Engineer - Machine Learning,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,171
+Software Engineer - Machine Learning,25,Automated Testing for LLMOps,automated-testing-llmops,148
+Software Engineer - Machine Learning,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,141
+Software Engineer - Machine Learning,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,133
+Software Engineer - Machine Learning,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,125
+Software Engineer - Machine Learning,31,Efficiently Serving LLMs,efficiently-serving-llms,113
+Software Engineer - Machine Learning,38,Quantization in Depth,quantization-in-depth,111
+Software Engineer - Machine Learning,33,Red Teaming LLM Applications,red-teaming-llm-applications,109
+Software Engineer - Machine Learning,"1,013",Multimodal RAG: Chat with Videos,multimodal-rag-chat-with-videos,105
+Software Engineer - Machine Learning,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,105
+Software Engineer - Machine Learning,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,81
+Software Engineer - Machine Learning,"1,003",Intro to Federated Learning,intro-to-federated-learning,68
+Software Engineer - Machine Learning,47,Carbon Aware Computing for GenAI developers,carbon-aware-computing-for-genai-developers,54
+Software Engineer - Machine Learning,"1,005",Federated Fine-tuning of LLMs with Private Data,intro-to-federated-learning-c2,24
+,5,ChatGPT Prompt Engineering for Developers,chatgpt-prompt-eng,"17,837"
+,13,Finetuning Large Language Models,finetuning-large-language-models,"7,014"
+,16,Pair Programming with a Large Language Model,pair-programming-llm,"6,440"
+,15,Understanding and Applying Text Embeddings,google-cloud-vertex-ai,"4,988"
+,18,Vector Databases: from Embeddings to Applications,vector-databases-embeddings-applications,"4,969"
+,6,LangChain for LLM Application Development,langchain,"3,817"
+,9,LangChain Chat with Your Data,langchain-chat-with-your-data,"3,699"
+,8,Building Systems with the ChatGPT API,chatgpt-building-system,"3,656"
+,7,How Diffusion Models Work,diffusion-models,"2,940"
+,12,Large Language Models with Semantic Search,large-language-models-semantic-search,"2,020"
+,10,Building Generative AI Applications with Gradio,huggingface-gradio,"1,807"
+,14,How Business Thinkers Can Start Building AI Plugins With Semantic Kernel,microsoft-semantic-kernel,"1,588"
+,11,Evaluating and Debugging Generative AI,evaluating-debugging-generative-ai,"1,543"
+,28,Prompt Engineering with Llama 2&3,prompt-engineering-with-llama-2,850
+,24,LLMOps,llmops,836
+,20,Building and Evaluating Advanced RAG,building-evaluating-advanced-rag,793
+,17,"Functions, Tools and Agents with LangChain",functions-tools-agents-langchain,739
+,22,Advanced Retrieval for AI with Chroma,advanced-retrieval-for-ai,726
+,30,Knowledge Graphs for RAG,knowledge-graphs-rag,708
+,21,Reinforcement Learning From Human Feedback,reinforcement-learning-from-human-feedback,676
+,29,Open Source Models with Hugging Face,open-source-models-hugging-face,600
+,19,Quality and Safety for LLM Applications,quality-safety-llm-applications,554
+,26,Building Applications with Vector Databases,building-applications-vector-databases,521
+,27,Serverless LLM Apps Amazon Bedrock,serverless-LLM-apps-amazon-bedrock,515
+,32,JavaScript RAG Web Apps with LlamaIndex,javascript-rag-web-apps-with-llamaindex,467
+,23,Build LLM Apps with LangChain.js,build-llm-apps-with-langchain-js,432
+,31,Efficiently Serving LLMs,efficiently-serving-llms,405
+,25,Automated Testing for LLMOps,automated-testing-llmops,396
+,34,Preprocessing Unstructured Data for LLM Applications,preprocessing-unstructured-data-for-llm-applications,327
+,33,Red Teaming LLM Applications,red-teaming-llm-applications,302
+,35,Quantization Fundamentals with Hugging Face,quantization-fundamentals,179
+,36,Getting Started with Mistral,getting-started-with-mistral,133
+,"1,004",AI Python for Beginners: Basics of AI Python Coding,ai-python-for-beginners,11
+,37,Prompt Engineering for Vision Models,prompt-engineering-for-vision-models,9
+,39,Building Agentic RAG with Llamaindex,building-agentic-rag-with-llamaindex,5
+,41,Multi AI Agent Systems with crewAI,multi-ai-agent-systems-with-crewai,3
+,44,AI Agents in LangGraph,ai-agents-in-langgraph,3
+,45,Building Your Own Database Agent,building-your-own-database-agent,3
+,"1,006",AI Python for Beginners: Automating Tasks with Python,ai-python-for-beginners-c2,2
+,"1,008",Improving Accuracy of LLM Applications,improving-accuracy-of-llm-applications,1
+,42,Introduction to on-device AI,introduction-to-on-device-ai,1
+,"1,001",Prompt Compression and Query Optimization,prompt-compression-and-query-optimization,1
+,40,Building Multimodal Search and RAG,building-multimodal-search-and-rag,1
+,38,Quantization in Depth,quantization-in-depth,1

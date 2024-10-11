@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4-Step Personalization Wizard</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .step {
+            display: none;
+        }
+        .step.active {
+            display: block;
+        }
+        .interests-container {
+            display: flex;
+            gap: 1rem;
+        }
+        .interests-column {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .interests-list {
+            padding-right: 1rem;
+        }
+        .interests-list ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .interests-list li {
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+    <div class="bg-white p-8 rounded-lg shadow-md w-full max-w-4xl">
+        <h1 class="text-2xl font-bold mb-6 text-center">Personalization Wizard</h1>
+        <div id="wizard" class="space-y-4">
+            <div class="step active" data-step="1">
+                <p class="mb-4 font-semibold">What is your primary motivation for learning on our platform?</p>
+                <ul class="space-y-2 list-none pl-0">
+                    <li>
+                        <label class="flex items-center">
+                            <input type="radio" name="motivation" value="personal" class="mr-2" required>
+                            Fulfilling Personal Curiosity and Satisfaction
+                        </label>
+                    </li>
+                    <li>
+                        <label class="flex items-center">
+                            <input type="radio" name="motivation" value="credibility" class="mr-2">
+                            Building Professional Credibility
+                        </label>
+                    </li>
+                    <li>
+                        <label class="flex items-center">
+                            <input type="radio" name="motivation" value="advancing" class="mr-2">
+                            Advancing in Your Current Career
+                        </label>
+                    </li>
+                    <li>
+                        <label class="flex items-center">
+                            <input type="radio" name="motivation" value="transitioning" class="mr-2">
+                            Transitioning to a New Career
+                        </label>
+                    </li>
+                </ul>
+            </div>
+            <div class="step" data-step="2">
+                <p class="mb-4 font-semibold">What's your current role?</p>
+                <select id="role" class="w-full p-2 border rounded mb-8">
+                    <!-- Options will be dynamically populated by JavaScript -->
+                </select>
+            </div>
+            <div class="step" data-step="3">
+                <p class="mb-4 font-semibold">Which topics are you interested in learning?</p>
+                <div class="interests-container">
+                    <div class="interests-column">
+                        <div class="interests-list">
+                            <ul id="topics-list">
+                                <!-- Options will be dynamically populated by JavaScript -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="interests-column">
+                        <label class="flex items-center mb-4 font-semibold text-blue-600">
+                            <input type="checkbox" name="interests" value="generative_ai_guide" class="mr-2" id="generative_ai_guide">
+                            Take our guide for Generative AI courses
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="step" data-step="4">
+                <h2 class="text-xl font-semibold mb-2">Summary</h2>
+                <p id="summary" class="mb-4"></p>
+                <div id="related-courses-section" class="mt-4"></div>
+                <div id="highest-rated-courses" class="mb-4"></div>
+                <div id="most-completed-courses" class="mb-4"></div>
+                <div id="most-enrolled-courses"></div>
+            </div>
+        </div>
+        <div class="flex justify-between mt-6">
+            <button id="prevBtn" class="bg-gray-300 text-gray-700 px-4 py-2 rounded">Previous</button>
+            <button id="nextBtn" class="bg-blue-500 text-white px-4 py-2 rounded">Next</button>
+        </div>
+    </div>
+    <script src="wizard-data-js.js"></script>
+    <script src="personalization-wizard-js.js"></script>
+</body>
+</html>
