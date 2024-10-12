@@ -213,10 +213,10 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
 
         let relatedCoursesHtml = '';
 
-        if (selectedTopics.length === 1 && selectedTopics[0] === 'Take our guide for Generative AI courses') {
+        if (selectedTopics.length === 1 && selectedTopics[0] === 'Beginner-friendly! Check out our guide to Generative AI courses') {
             relatedCoursesHtml = `
                 <a href="https://www.deeplearning.ai/resources/generative-ai-courses-guide/" target="_blank" style="color: #f65b66; font-weight: bold; text-decoration: underline; margin-bottom: 16px; display: inline-block;">
-                    Your Guide to Generative AI Courses
+                    Explore our courses with our comprehensive Generative AI Course Guide
                 </a>
             `;
         } else if (selectedTopics.length > 0) {
@@ -267,7 +267,6 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
             <h3 class="text-xl font-semibold mb-2" >Here are the courses that professionals in the ${jobTitle} field have taken:</h3>
         `;
         
-        
         document.getElementById('highest-rated-courses').innerHTML = `
             <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Highest-rated</h3>
             ${highestRatedCoursesHtml || '<p>No data available</p>'}
@@ -283,7 +282,10 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
             ${mostEnrolledCoursesHtml || '<p>No data available</p>'}
         `;
 
-        document.getElementById('related-courses-section').innerHTML = relatedCoursesHtml;
+        document.getElementById('related-courses-section').innerHTML =` 
+            <h3 class="text-xl font-semibold mb-2" >Explore our courses based on the topics you're interested in</h3>
+            ${relatedCoursesHtml || ''}
+        `;
 
         console.log('Updated the courses sections in the DOM');
     } else {
