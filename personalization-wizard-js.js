@@ -263,18 +263,23 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
             </div>
         `).join('');
 
+        document.getElementById('job-title-based-recommendation').innerHTML = `
+            <h3 class="text-xl font-semibold mb-2" >Here are the courses that professionals in the ${jobTitle} field have taken:</h3>
+        `;
+        
+        
         document.getElementById('highest-rated-courses').innerHTML = `
-            <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Courses highest rated by ${jobTitle} professionals</h3>
+            <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Highest-rated</h3>
             ${highestRatedCoursesHtml || '<p>No data available</p>'}
         `;
 
         document.getElementById('most-completed-courses').innerHTML = `
-            <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Courses most completed by ${jobTitle} professionals</h3>
+            <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Most completed</h3>
             ${mostCompletedCoursesHtml || '<p>No data available</p>'}
         `;
 
         document.getElementById('most-enrolled-courses').innerHTML = `
-            <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Courses most enrolled by ${jobTitle} professionals</h3>
+            <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Most popular</h3>
             ${mostEnrolledCoursesHtml || '<p>No data available</p>'}
         `;
 
