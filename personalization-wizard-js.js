@@ -281,7 +281,7 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
         document.getElementById('most-completed-courses').innerHTML = `
             <div style="display: flex; align-items: center; cursor: pointer;" onclick="toggleSection('completed-courses-content', this)">
                 <span style="font-size: 24px; user-select: none; margin-right: 10px;">+</span>
-                <h3 class="text-lg font-semibold mb-2" style="margin: 0;">Courses most completed by ${jobTitle}</h3>
+                <h3 class="text-lg font-semibold mb-2" style="margin: 0;">Most completed</h3>
             </div>
             <div id="completed-courses-content" style="display: none; margin-top: 10px;">
                 ${mostCompletedCoursesHtml || '<p>No data available</p>'}
@@ -291,7 +291,7 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
         document.getElementById('most-enrolled-courses').innerHTML = `
             <div style="display: flex; align-items: center; cursor: pointer;" onclick="toggleSection('enrolled-courses-content', this)">
                 <span style="font-size: 24px; user-select: none; margin-right: 10px;">+</span>
-                <h3 class="text-lg font-semibold mb-2" style="margin: 0;">Courses most enrolled by ${jobTitle}</h3>
+                <h3 class="text-lg font-semibold mb-2" style="margin: 0;">Most popular</h3>
             </div>
             <div id="enrolled-courses-content" style="display: none; margin-top: 10px;">
                 ${mostEnrolledCoursesHtml || '<p>No data available</p>'}
