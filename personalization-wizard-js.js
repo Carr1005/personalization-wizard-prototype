@@ -266,25 +266,32 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
         document.getElementById('job-title-based-recommendation').innerHTML = `
             <h3 class="text-xl font-semibold mb-2" >Here are the courses that professionals in the ${jobTitle} field have taken:</h3>
         `;
+
+        document.getElementById('related-courses-section').innerHTML =` 
+            <h3 class="text-xl font-semibold mb-2" >Explore our courses based on the topics you're interested in</h3>
+            ${relatedCoursesHtml || ''}
+        `;
         
         document.getElementById('highest-rated-courses').innerHTML = `
             <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Highest-rated</h3>
             ${highestRatedCoursesHtml || '<p>No data available</p>'}
         `;
 
+        // Update the DOM with collapsible sections for most completed and most enrolled courses using symbols
         document.getElementById('most-completed-courses').innerHTML = `
-            <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Most completed</h3>
-            ${mostCompletedCoursesHtml || '<p>No data available</p>'}
+            <span onclick="toggleSection('completed-courses-content')" style="cursor: pointer; font-size: 24px; user-select: none; margin-right: 10px;">+</span>
+            <h3 class="text-lg font-semibold mb-2" style="display: inline;">Courses most completed by ${jobTitle}</h3>
+            <div id="completed-courses-content" style="display: none; margin-top: 10px;">
+                ${mostCompletedCoursesHtml || '<p>No data available</p>'}
+            </div>
         `;
 
         document.getElementById('most-enrolled-courses').innerHTML = `
-            <h3 class="text-lg font-semibold mb-2" style="color: #f65b66;">Most popular</h3>
-            ${mostEnrolledCoursesHtml || '<p>No data available</p>'}
-        `;
-
-        document.getElementById('related-courses-section').innerHTML =` 
-            <h3 class="text-xl font-semibold mb-2" >Explore our courses based on the topics you're interested in</h3>
-            ${relatedCoursesHtml || ''}
+            <span onclick="toggleSection('enrolled-courses-content')" style="cursor: pointer; font-size: 24px; user-select: none; margin-right: 10px;">+</span>
+            <h3 class="text-lg font-semibold mb-2" style="display: inline;">Courses most enrolled by ${jobTitle}</h3>
+            <div id="enrolled-courses-content" style="display: none; margin-top: 10px;">
+                ${mostEnrolledCoursesHtml || '<p>No data available</p>'}
+            </div>
         `;
 
         console.log('Updated the courses sections in the DOM');
@@ -293,6 +300,18 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
     }
 }
 
+function toggleSection(sectionId) {
+    const section = document.getElementById(sectionId);
+    const symbol = section.previousElementSibling; // The <span> with the + or -
+
+    if (section.style.display === 'none' || section.style.display === '') {
+        section.style.display = 'block';
+        symbol.textContent = '-';
+    } else {
+        section.style.display = 'none';
+        symbol.textContent = '+';
+    }
+}
 
 // Update summary function with course sections update
 function updateSummary() {
