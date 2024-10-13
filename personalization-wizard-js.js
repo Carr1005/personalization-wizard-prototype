@@ -279,16 +279,20 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
 
         // Update the DOM with collapsible sections for most completed and most enrolled courses using symbols
         document.getElementById('most-completed-courses').innerHTML = `
-            <span onclick="toggleSection('completed-courses-content')" style="cursor: pointer; font-size: 24px; user-select: none; margin-right: 10px;">+</span>
-            <h3 class="text-lg font-semibold mb-2" style="display: inline;">Courses most completed by ${jobTitle}</h3>
+            <div style="display: flex; align-items: center; cursor: pointer;" onclick="toggleSection('completed-courses-content', this)">
+                <span style="font-size: 24px; user-select: none; margin-right: 10px;">+</span>
+                <h3 class="text-lg font-semibold mb-2" style="margin: 0;">Courses most completed by ${jobTitle}</h3>
+            </div>
             <div id="completed-courses-content" style="display: none; margin-top: 10px;">
                 ${mostCompletedCoursesHtml || '<p>No data available</p>'}
             </div>
         `;
 
         document.getElementById('most-enrolled-courses').innerHTML = `
-            <span onclick="toggleSection('enrolled-courses-content')" style="cursor: pointer; font-size: 24px; user-select: none; margin-right: 10px;">+</span>
-            <h3 class="text-lg font-semibold mb-2" style="display: inline;">Courses most enrolled by ${jobTitle}</h3>
+            <div style="display: flex; align-items: center; cursor: pointer;" onclick="toggleSection('enrolled-courses-content', this)">
+                <span style="font-size: 24px; user-select: none; margin-right: 10px;">+</span>
+                <h3 class="text-lg font-semibold mb-2" style="margin: 0;">Courses most enrolled by ${jobTitle}</h3>
+            </div>
             <div id="enrolled-courses-content" style="display: none; margin-top: 10px;">
                 ${mostEnrolledCoursesHtml || '<p>No data available</p>'}
             </div>
@@ -300,9 +304,9 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
     }
 }
 
-function toggleSection(sectionId) {
+function toggleSection(sectionId, toggleElement) {
     const section = document.getElementById(sectionId);
-    const symbol = section.previousElementSibling; // The <span> with the + or -
+    const symbol = toggleElement.querySelector('span');
 
     if (section.style.display === 'none' || section.style.display === '') {
         section.style.display = 'block';
