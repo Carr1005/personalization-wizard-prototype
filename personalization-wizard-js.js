@@ -350,7 +350,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
     prevBtn.disabled = true;
     setupMutualExclusion();
-
-    populateJobTitles();
-    populateTopics();
 });
