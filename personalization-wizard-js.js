@@ -233,7 +233,6 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
             `;
         }
 
-
         const highestRatedCoursesHtml = highestRatingsCourses.map(course => `
             <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <a href="${course.courseLink}" target="_blank" style="text-decoration: none; color: #007bff;">
@@ -263,12 +262,12 @@ async function updateCoursesSections(jobTitle, selectedTopics) {
             </div>
         `).join('');
 
-        document.getElementById('job-title-based-recommendation').innerHTML = `
-            <h3 class="text-xl font-semibold mb-2" >Here are the courses that professionals in the ${jobTitle} field have taken:</h3>
+        document.getElementById('job-title-based-recommendation-title').innerHTML = `
+            <h3 class="text-xl font-semibold mt-4 mb-2" >Here are the courses that professionals in the ${jobTitle} field have taken:</h3>
         `;
 
         document.getElementById('related-courses-section').innerHTML =` 
-            <h3 class="text-xl font-semibold mb-2" >Explore our courses based on the topics you're interested in</h3>
+            <h3 class="text-xl font-semibold mt-4 mb-2" >Explore our courses based on the topics you're interested in</h3>
             ${relatedCoursesHtml || ''}
         `;
         
